@@ -14,5 +14,7 @@ In this module, we will learn how to use these tools to create a web application
 ## ***Scrape Full-Resolution Mars Hemisphere Images and Titles:***
 By using BeautifulSoup and Splinter, we will scrape and add full-resolution images of Mar's hemispheres and titles to our dictionary.
 
+<img width="664" alt="full_resolution_images" src="https://user-images.githubusercontent.com/87077325/163631535-14c6d0b9-9c2f-49cf-91d4-4cb615d6b395.png">
+
 ## ***Update the Web App with Mar's Hemisphere Images and Titles:***
 Using Python and HTML, 
